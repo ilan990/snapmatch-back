@@ -27,8 +27,8 @@ Le backend de l'application est développé en Python avec Django, utilisant une
 1. Clonez ce repository :
 
    ```bash
-   git clone https://github.com/votre_utilisateur/votre_projet_backend.git](https://github.com/ilan990/snapmatch-back.git
-   cd votre_projet_backend
+   git clone https://github.com/ilan990/snapmatch-back.git
+   cd snapmatch-back.git
 
 2. Installez les dépendances Python nécessaires (de préférence dans un environnement virtuel) :
   
