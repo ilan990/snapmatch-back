@@ -32,19 +32,19 @@ Le backend de l'application est développé en Python avec Django, utilisant une
 
 2. Installez les dépendances Python nécessaires (de préférence dans un environnement virtuel) :
   
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Configurez la base de données PostgreSQL/MySQL en mettant à jour les paramètres de configuration dans settings.py.
 
 4. Appliquez les migrations pour créer les tables de la base de données :
 
-```bash
-python manage.py migrate
+   ```bash
+   python manage.py migrate
 
 5. Démarrez le serveur Django :
 
-```bash
-python manage.py runserver
+   ```bash
+   python manage.py runserver
 
 Le backend sera accessible à l'adresse : http://localhost:8000.
